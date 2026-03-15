@@ -1,0 +1,365 @@
+Job Title,Job Description,Required Skills,Salary Range,Location,Company,Experience Level,Industry,Job Type,Date Posted
+Software Engineer,Develop software,"Java, Python","£40,000 - £60,000",London,ABC Tech,Entry-Level,Technology,Full-Time,1/5/2023
+Data Analyst,Analyze data,"SQL, Excel","£35,000 - £50,000",Manchester,XYZ Analytics,Junior,Analytics,Full-Time,2/10/2023
+Network Engineer,Maintain networks,"Cisco, WAN","£45,000 - £70,000",Birmingham,Network Solutions,Mid-Level,Networking,Full-Time,3/15/2023
+Cloud Architect,Design cloud,"AWS, Azure","£60,000 - £90,000",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time,4/20/2023
+Cybersecurity Analyst,Protect data,Cybersecurity,"£50,000 - £80,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,5/25/2023
+IT Project Manager,Manage projects,"PMP, Agile","£70,000 - £100,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,6/30/2023
+Data Scientist,Analyze big data,"R, Python","£55,000 - £85,000",Bristol,Data Insights,Mid-Level,Data Science,Full-Time,7/5/2023
+DevOps Engineer,Streamline devops,"Docker, Jenkins","£50,000 - £75,000",Newcastle,DevOps Solutions,Mid-Level,DevOps,Full-Time,8/10/2023
+IT Support Analyst,Provide IT support,"Windows, Linux","£30,000 - £45,000",Sheffield,IT Services,Entry-Level,Support,Full-Time,9/15/2023
+UX/UI Designer,Design user interfaces,UI/UX Design,"£40,000 - £70,000",Cardiff,Design Studios,Junior,Design,Full-Time,10/20/2023
+Database Analyst,Manage databases,"SQL, Oracle, Database Management","£40,000 - £65,000",London,Data Solutions,Mid-Level,Database,Full-Time,11/25/2023
+UI Developer,Design user interfaces,"HTML, CSS, JavaScript","£35,000 - £55,000",Manchester,Web Creations,Junior,Web Development,Full-Time,12/10/2023
+System Administrator,Maintain systems,"Windows Server, Active Directory","£45,000 - £70,000",Birmingham,System Services,Mid-Level,IT Services,Full-Time,1/15/2023
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£55,000 - £85,000",Edinburgh,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,2/20/2023
+IT Auditor,Audit IT systems,"Audit, Risk Management","£50,000 - £80,000",Glasgow,Audit Experts,Mid-Level,Audit,Full-Time,3/25/2023
+Network Security Engineer,Secure networks,"Firewall, VPN, Security","£55,000 - £90,000",Leeds,SecureNet,Mid-Level,Security,Full-Time,4/30/2023
+Software Tester,Test software,"Manual Testing, Bug Tracking","£30,000 - £50,000",Bristol,QA Solutions,Entry-Level,Quality Assurance,Full-Time,5/5/2023
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Architecture","£65,000 - £100,000",Newcastle,Cloud Architects,Senior,Cloud Computing,Full-Time,6/10/2023
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£60,000 - £90,000",Sheffield,IT Consultants,Senior,Consulting,Full-Time,7/15/2023
+Front-end Developer,Develop web interfaces,"JavaScript, React","£40,000 - £75,000",Cardiff,Web Studios,Mid-Level,Web Development,Full-Time,8/20/2023
+Business Analyst,Analyze business needs,"Business Analysis, Requirements","£45,000 - £80,000",London,Biz Analysts,Mid-Level,Business Analysis,Full-Time,9/25/2023
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service","£25,000 - £40,000",Manchester,IT Helpdesk,Entry-Level,Support,Full-Time,10/30/2023
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD","£60,000 - £95,000",Birmingham,Secure DevOps,Mid-Level,DevOps,Full-Time,11/5/2023
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£50,000 - £85,000",Edinburgh,Data Engineers,Mid-Level,Data Engineering,Full-Time,12/10/2023
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Glasgow,IT Training,Junior,Education,Full-Time,1/15/2023
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£65,000 - £100,000",Leeds,SecureCloud,Mid-Level,Security,Full-Time,2/20/2023
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£50,000 - £80,000",Bristol,ProcureIT,Mid-Level,Procurement,Full-Time,3/25/2023
+UX Researcher,Conduct UX research,"User Research, UX Design","£45,000 - £75,000",Newcastle,UX Labs,Mid-Level,Design,Full-Time,4/30/2023
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£55,000 - £90,000",Sheffield,Blockchain Tech,Mid-Level,Blockchain,Full-Time,5/5/2023
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £80,000",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time,6/10/2023
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£40,000 - £70,000",London,Cloud Support,Junior,Support,Full-Time,7/15/2023
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£70,000 - £110,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,8/20/2023
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£55,000 - £85,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,9/25/2023
+Software Architect,Design software,"Architecture, Design Patterns","£75,000 - £120,000",Edinburgh,Software Architects,Senior,Software Design,Full-Time,10/30/2023
+IT Quality Analyst,Ensure software quality,"QA, Testing","£45,000 - £75,000",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time,11/5/2023
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£50,000 - £90,000",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time,12/10/2023
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£70,000 - £110,000",Bristol,Procurement Mgmt,Senior,Procurement,Full-Time,1/15/2023
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£60,000 - £95,000",Newcastle,Compliance Experts,Mid-Level,Compliance,Full-Time,2/20/2023
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js","£55,000 - £90,000",Sheffield,Full-stack Devs,Mid-Level,Web Development,Full-Time,3/25/2023
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£50,000 - £85,000",Cardiff,IT Analysts,Mid-Level,Business Analysis,Full-Time,4/30/2023
+IT Trainer Assistant,Assist IT training,"Training, IT Education","£30,000 - £50,000",London,IT Training Assist,Entry-Level,Education,Full-Time,5/5/2023
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£60,000 - £100,000",Manchester,AI Ethics,Mid-Level,Ethics,Full-Time,6/10/2023
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£35,000 - £55,000",Birmingham,IT Support Specialists,Junior,Support,Full-Time,7/15/2023
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£70,000 - £110,000",Edinburgh,Data Managers,Senior,Analytics,Full-Time,8/20/2023
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£40,000 - £70,000",Glasgow,Project Coordinators,Mid-Level,Project Management,Full-Time,9/25/2023
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£45,000 - £75,000",Leeds,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,10/30/2023
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£65,000 - £100,000",Bristol,IT Governance Mgmt,Senior,Governance,Full-Time,11/5/2023
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing","£55,000 - £90,000",Newcastle,Cybersecurity Engineers,Mid-Level,Security,Full-Time,12/10/2023
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,"£50,000 - £85,000",Cardiff,Procurement Analysts,Mid-Level,Procurement,Full-Time,1/15/2023
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",London,UX Designers,Mid-Level,Design,Full-Time,2/20/2023
+IT Change Manager,Manage IT changes,"Change Management, IT Strategy","£60,000 - £100,000",Manchester,Change Managers,Senior,Change Management,Full-Time,3/25/2023
+IT Service Desk Analyst,Provide service desk support,"IT Service Desk, Troubleshooting","£30,000 - £50,000",Birmingham,Service Desk,Entry-Level,Support,Full-Time,4/30/2023
+Cloud Security Analyst,Analyze cloud security,"Cloud Security, Threat Analysis","£45,000 - £75,000",Edinburgh,Cloud Security,Mid-Level,Security,Full-Time,5/5/2023
+IT Business Continuity Manager,Ensure business continuity,"Business Continuity, Disaster Recovery","£70,000 - £110,000",Glasgow,Continuity Managers,Senior,Business Continuity,Full-Time,6/10/2023
+QA Automation Engineer,Automate software testing,"Test Automation, Selenium","£55,000 - £90,000",Leeds,QA Automation,Mid-Level,Quality Assurance,Full-Time,7/15/2023
+Data Governance Analyst,Manage data governance,"Data Governance, Data Quality","£50,000 - £85,000",Bristol,Data Governance,Mid-Level,Governance,Full-Time,8/20/2023
+IT Trainer Specialist,Specialize in IT training,"Training, Specialization","£40,000 - £70,000",Newcastle,IT Training Specialists,Mid-Level,Education,Full-Time,9/25/2023
+Machine Learning Engineer,Develop ML models,"Machine Learning, Python","£60,000 - £100,000",Cardiff,ML Engineers,Mid-Level,Machine Learning,Full-Time,10/30/2023
+IT Asset Manager,Manage IT assets,"IT Asset Management, Inventory","£55,000 - £90,000",London,Asset Managers,Mid-Level,Asset Management,Full-Time,11/5/2023
+IT Security Consultant,Provide security consultancy,Security Consulting,"£50,000 - £85,000",Manchester,Security Consultants,Mid-Level,Security,Full-Time,12/10/2023
+Data Analyst Intern,Analyze data as an intern,"SQL, Excel","£20,000 - £30,000",Birmingham,Data Interns,Internship,Analytics,Full-Time,1/15/2023
+IT Sales Representative,Sell IT solutions,"Sales, IT Sales","£40,000 - £70,000",Edinburgh,Sales Reps,Junior,Sales,Full-Time,2/20/2023
+Cloud Migration Specialist,Migrate to the cloud,"Cloud Migration, AWS, Azure","£55,000 - £90,000",Glasgow,Cloud Migrators,Mid-Level,Cloud Computing,Full-Time,3/25/2023
+IT Procurement Coordinator,Coordinate IT procurement,Procurement Coordination,"£45,000 - £75,000",Leeds,Procurement Coordinators,Mid-Level,Procurement,Full-Time,4/30/2023
+IT Analyst Trainee,Train as an IT analyst,"IT Analysis, Training","£25,000 - £35,000",Bristol,IT Analyst Trainees,Entry-Level,Training,Full-Time,5/5/2023
+UX Research Assistant,Assist in UX research,"UX Research, Support","£30,000 - £45,000",Newcastle,UX Research Assistants,Entry-Level,Research,Full-Time,6/10/2023
+IT Compliance Specialist,Ensure IT compliance,"Compliance, Regulations","£50,000 - £85,000",Cardiff,Compliance Specialists,Mid-Level,Compliance,Full-Time,7/15/2023
+Software Development Intern,Intern in software dev,"Programming, Internship","£20,000 - £30,000",London,Dev Interns,Internship,Software Development,Full-Time,8/20/2023
+Network Administrator Trainee,Train as network admin,"Networking, Training","£25,000 - £35,000",Manchester,Network Admin Trainees,Entry-Level,Networking,Full-Time,9/25/2023
+Cloud Solutions Intern,Intern in cloud solutions,"Cloud Computing, Internship","£20,000 - £30,000",Birmingham,Cloud Interns,Internship,Cloud,Full-Time,10/30/2023
+Data Engineer,Build data pipelines,"Big Data, Python, SQL","£55,000 - £85,000",Cardiff,Data Innovators,Mid-Level,Data Engineering,Full-Time,1/5/2023
+Software Developer,Develop software,"Java, C++, Software Design","£50,000 - £80,000",Leeds,CodeCrafters,Mid-Level,Software Development,Full-Time,2/10/2023
+IT Analyst,Analyze IT systems,"IT Analysis, Troubleshooting","£40,000 - £65,000",Birmingham,IT Insights,Junior,IT Analysis,Full-Time,3/15/2023
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture","£60,000 - £90,000",Manchester,Cloud Architects,Senior,Cloud Computing,Full-Time,4/20/2023
+Cybersecurity Analyst,Protect data,"Cybersecurity, Threat Analysis","£50,000 - £80,000",Edinburgh,SecureGuard,Mid-Level,Security,Full-Time,5/25/2023
+IT Project Manager,Manage projects,"PMP, Agile, Project Management","£70,000 - £100,000",Glasgow,Project Leaders,Senior,Project Management,Full-Time,6/30/2023
+Data Scientist,Analyze big data,"R, Python, Machine Learning","£55,000 - £85,000",Newcastle,Data Insights,Mid-Level,Data Science,Full-Time,7/5/2023
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps","£50,000 - £75,000",Sheffield,DevOps Solutions,Mid-Level,DevOps,Full-Time,8/10/2023
+IT Support Analyst,Provide IT support,"Windows, Linux, Troubleshooting","£30,000 - £45,000",Cardiff,IT Services,Entry-Level,Support,Full-Time,9/15/2023
+UX/UI Designer,Design user interfaces,"UI/UX Design, Prototyping","£40,000 - £70,000",London,Design Studios,Junior,Design,Full-Time,10/20/2023
+Database Analyst,Manage databases,"SQL, Oracle, Database Management","£40,000 - £65,000",Manchester,Data Solutions,Mid-Level,Database,Full-Time,11/25/2023
+UI Developer,Design web interfaces,"HTML, CSS, JavaScript","£35,000 - £55,000",Birmingham,Web Creations,Junior,Web Development,Full-Time,12/10/2023
+System Administrator,Maintain systems,"Windows Server, Networking","£45,000 - £70,000",Edinburgh,System Services,Mid-Level,IT Services,Full-Time,12/15/2023
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£55,000 - £85,000",Glasgow,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,12/20/2023
+IT Auditor,Audit IT systems,"Audit, Risk Management","£50,000 - £80,000",Leeds,Audit Experts,Mid-Level,Audit,Full-Time,12/25/2023
+Network Security Engineer,Secure networks,"Security, Firewall","£55,000 - £90,000",Bristol,SecureNet,Mid-Level,Security,Full-Time,12/30/2023
+Software Tester,Test software,"Manual Testing, Bug Tracking","£30,000 - £50,000",Newcastle,QA Solutions,Entry-Level,Quality Assurance,Full-Time,12/31/2023
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture","£60,000 - £90,000",Cardiff,Cloud Innovators,Senior,Cloud Computing,Full-Time,12/10/2023
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£60,000 - £90,000",Birmingham,IT Consultants,Senior,Consulting,Full-Time,12/15/2023
+Front-end Developer,Develop web interfaces,"JavaScript, React","£40,000 - £75,000",Edinburgh,Web Studios,Mid-Level,Web Development,Full-Time,12/20/2023
+Business Analyst,Analyze business needs,"Business Analysis, Requirements","£45,000 - £80,000",Glasgow,Biz Analysts,Mid-Level,Business Analysis,Full-Time,12/25/2023
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service","£25,000 - £40,000",Leeds,IT Helpdesk,Entry-Level,Support,Full-Time,12/30/2023
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD","£60,000 - £95,000",Bristol,Secure DevOps,Mid-Level,DevOps,Full-Time,12/31/2023
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£50,000 - £85,000",Cardiff,Data Engineers,Mid-Level,Data Engineering,Full-Time,1/5/2022
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Manchester,IT Training,Junior,Education,Full-Time,2/10/2022
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£65,000 - £100,000",Birmingham,SecureCloud,Mid-Level,Security,Full-Time,3/15/2022
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£50,000 - £80,000",Edinburgh,ProcureIT,Mid-Level,Procurement,Full-Time,4/20/2022
+UX Researcher,Conduct UX research,"User Research, UX Design","£45,000 - £75,000",Glasgow,UX Labs,Mid-Level,Design,Full-Time,5/25/2022
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£55,000 - £90,000",Leeds,Blockchain Tech,Mid-Level,Blockchain,Full-Time,6/30/2022
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £80,000",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time,7/5/2022
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£40,000 - £70,000",London,Cloud Support,Junior,Support,Full-Time,8/10/2022
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£70,000 - £110,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,9/15/2022
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£55,000 - £85,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,10/20/2022
+Software Architect,Design software,"Architecture, Design Patterns","£75,000 - £120,000",Edinburgh,Software Architects,Senior,Software Design,Full-Time,11/25/2022
+IT Quality Analyst,Ensure software quality,"QA, Testing","£45,000 - £75,000",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time,12/10/2022
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£50,000 - £90,000",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time,12/15/2022
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£70,000 - £110,000",Cardiff,Procurement Mgmt,Senior,Procurement,Full-Time,12/20/2022
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£60,000 - £95,000",London,Compliance Experts,Mid-Level,Compliance,Full-Time,12/25/2022
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js","£55,000 - £90,000",Manchester,Full-stack Devs,Mid-Level,Web Development,Full-Time,12/30/2022
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£50,000 - £85,000",Birmingham,IT Analysts,Mid-Level,Business Analysis,Full-Time,12/31/2022
+IT Trainer Assistant,Assist IT training,"Training, IT Education","£30,000 - £50,000",Edinburgh,IT Training Assist,Entry-Level,Education,Full-Time,12/10/2023
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£60,000 - £100,000",Glasgow,AI Ethics,Mid-Level,Ethics,Full-Time,12/15/2023
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£35,000 - £55,000",Leeds,IT Support Specialists,Junior,Support,Full-Time,12/20/2023
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£70,000 - £110,000",Cardiff,Data Managers,Senior,Analytics,Full-Time,12/25/2023
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£40,000 - £70,000",London,Project Coordinators,Mid-Level,Project Management,Full-Time,12/30/2023
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£45,000 - £75,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,12/31/2023
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£65,000 - £100,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,1/5/2022
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing","£55,000 - £90,000",Edinburgh,Cybersecurity Engineers,Mid-Level,Security,Full-Time,2/10/2022
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,"£50,000 - £85,000",Glasgow,Procurement Analysts,Mid-Level,Procurement,Full-Time,3/15/2022
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",Leeds,UX Designers,Mid-Level,Design,Full-Time,4/20/2022
+Software Engineer,Develop software,"Java, Python, Software Development","£50,000 - £80,000",London,Tech Solutions,Mid-Level,Software Development,Full-Time,1/5/2022
+Data Analyst,Analyze data,"SQL, Data Visualization","£40,000 - £65,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,2/10/2022
+Network Engineer,Manage networks,"Cisco, Network Troubleshooting","£45,000 - £75,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,3/15/2022
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture","£60,000 - £90,000",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time,4/20/2022
+Cybersecurity Analyst,Secure IT systems,"Cybersecurity, Threat Analysis","£50,000 - £80,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,5/25/2022
+IT Project Manager,Manage projects,"PMP, Agile, Project Management","£70,000 - £100,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,6/30/2022
+Data Scientist,Analyze big data,"R, Python, Machine Learning","£55,000 - £85,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,7/5/2022
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps","£50,000 - £75,000",Cardiff,DevOps Solutions,Mid-Level,DevOps,Full-Time,8/10/2022
+IT Support Analyst,Provide IT support,"Windows, Linux, Troubleshooting","£30,000 - £45,000",London,IT Services,Entry-Level,Support,Full-Time,9/15/2022
+UX/UI Designer,Design user interfaces,"UI/UX Design, Prototyping","£40,000 - £70,000",Manchester,Design Studios,Junior,Design,Full-Time,10/20/2022
+Database Analyst,Manage databases,"SQL, Oracle, Database Management","£40,000 - £65,000",Birmingham,Data Solutions,Mid-Level,Database,Full-Time,11/25/2022
+UI Developer,Design web interfaces,"HTML, CSS, JavaScript","£35,000 - £55,000",Edinburgh,Web Creations,Junior,Web Development,Full-Time,12/10/2022
+System Administrator,Maintain systems,"Windows Server, Networking","£45,000 - £70,000",Glasgow,System Services,Mid-Level,IT Services,Full-Time,12/15/2022
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£55,000 - £85,000",Leeds,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,12/20/2022
+IT Auditor,Audit IT systems,"Audit, Risk Management","£50,000 - £80,000",Bristol,Audit Experts,Mid-Level,Audit,Full-Time,12/25/2022
+Network Security Engineer,Secure networks,"Security, Firewall","£55,000 - £90,000",Newcastle,SecureNet,Mid-Level,Security,Full-Time,12/30/2022
+Software Tester,Test software,"Manual Testing, Bug Tracking","£30,000 - £50,000",Cardiff,QA Solutions,Entry-Level,Quality Assurance,Full-Time,5/25/2022
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture","£60,000 - £90,000",London,Cloud Architects,Senior,Cloud Computing,Full-Time,6/30/2022
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£60,000 - £90,000",Manchester,IT Consultants,Senior,Consulting,Full-Time,7/5/2022
+Front-end Developer,Develop web interfaces,"JavaScript, React","£40,000 - £75,000",Birmingham,Web Studios,Mid-Level,Web Development,Full-Time,8/10/2022
+Business Analyst,Analyze business needs,"Business Analysis, Requirements","£45,000 - £80,000",Edinburgh,Biz Analysts,Mid-Level,Business Analysis,Full-Time,9/15/2022
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service","£25,000 - £40,000",Glasgow,IT Helpdesk,Entry-Level,Support,Full-Time,10/20/2022
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD","£60,000 - £95,000",Leeds,Secure DevOps,Mid-Level,DevOps,Full-Time,11/25/2022
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£50,000 - £85,000",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time,12/10/2022
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Newcastle,IT Training,Junior,Education,Full-Time,12/15/2022
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£65,000 - £100,000",Cardiff,SecureCloud,Mid-Level,Security,Full-Time,12/20/2022
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£50,000 - £80,000",Edinburgh,ProcureIT,Mid-Level,Procurement,Full-Time,12/25/2022
+UX Researcher,Conduct UX research,"User Research, UX Design","£45,000 - £75,000",Glasgow,UX Labs,Mid-Level,Design,Full-Time,12/30/2022
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£55,000 - £90,000",Leeds,Blockchain Tech,Mid-Level,Blockchain,Full-Time,1/1/2023
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £80,000",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time,1/2/2023
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£40,000 - £70,000",London,Cloud Support,Junior,Support,Full-Time,1/3/2023
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£70,000 - £110,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,1/4/2023
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£55,000 - £85,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,1/5/2023
+Software Architect,Design software,"Architecture, Design Patterns","£75,000 - £120,000",Edinburgh,Software Architects,Senior,Software Design,Full-Time,1/6/2023
+IT Quality Analyst,Ensure software quality,"QA, Testing","£45,000 - £75,000",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time,1/7/2023
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£50,000 - £90,000",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time,1/8/2023
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£70,000 - £110,000",Cardiff,Procurement Mgmt,Senior,Procurement,Full-Time,1/9/2023
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£60,000 - £95,000",London,Compliance Experts,Mid-Level,Compliance,Full-Time,1/10/2023
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js","£55,000 - £90,000",Manchester,Full-stack Devs,Mid-Level,Web Development,Full-Time,1/11/2023
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£50,000 - £85,000",Birmingham,IT Analysts,Mid-Level,Business Analysis,Full-Time,1/12/2023
+IT Trainer Assistant,Assist IT training,"Training, IT Education","£30,000 - £50,000",Edinburgh,IT Training Assist,Entry-Level,Education,Full-Time,1/13/2023
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£60,000 - £100,000",Glasgow,AI Ethics,Mid-Level,Ethics,Full-Time,1/14/2023
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£35,000 - £55,000",Leeds,IT Support Specialists,Junior,Support,Full-Time,1/15/2023
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£70,000 - £110,000",Cardiff,Data Managers,Senior,Analytics,Full-Time,1/16/2023
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£40,000 - £70,000",London,Project Coordinators,Mid-Level,Project Management,Full-Time,1/17/2023
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£45,000 - £75,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,1/18/2023
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£65,000 - £100,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,1/19/2023
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing","£55,000 - £90,000",Edinburgh,Cybersecurity Engineers,Mid-Level,Security,Full-Time,1/20/2023
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,"£50,000 - £85,000",Glasgow,Procurement Analysts,Mid-Level,Procurement,Full-Time,1/21/2023
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",Leeds,UX Designers,Mid-Level,Design,Full-Time,1/22/2023
+Software Developer,Develop web applications,"Java, JavaScript, HTML/CSS","£45,000 - £75,000",London,Tech Innovations,Mid-Level,Software Development,Full-Time,3/15/2021
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis","£40,000 - £70,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,4/20/2021
+Network Engineer,Manage network infrastructure,"Cisco, Networking","£50,000 - £80,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,6/10/2021
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design","£60,000 - £95,000",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time,8/25/2021
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection","£55,000 - £90,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,10/5/2021
+IT Project Manager,Manage IT projects,"Project Management, Agile","£70,000 - £110,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,11/15/2021
+Data Scientist,Analyze big data,"Python, Machine Learning","£65,000 - £100,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,12/20/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£40,000 - £70,000",Cardiff,IT Support Experts,Junior,Support,Full-Time,2/10/2021
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£50,000 - £85,000",London,Web Creations,Mid-Level,Web Development,Full-Time,3/20/2021
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis","£45,000 - £75,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,4/15/2021
+Network Engineer,Manage network infrastructure,"Cisco, Networking","£55,000 - £90,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,5/12/2021
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design","£70,000 - £110,000",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time,6/25/2021
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection","£60,000 - £95,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,7/18/2021
+IT Project Manager,Manage IT projects,"Project Management, Agile","£75,000 - £120,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,8/30/2021
+Data Scientist,Analyze big data,"Python, Machine Learning","£65,000 - £100,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,9/14/2021
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£55,000 - £90,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,10/22/2021
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£80,000 - £130,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,11/9/2021
+Software Developer,Develop software,"Java, Python, Software Development","£50,000 - £85,000",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time,12/4/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£40,000 - £70,000",Cardiff,IT Support Experts,Junior,Support,Full-Time,2/10/2021
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£50,000 - £85,000",London,Web Creations,Mid-Level,Web Development,Full-Time,3/20/2021
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis","£45,000 - £75,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,4/15/2021
+Network Engineer,Manage network infrastructure,"Cisco, Networking","£55,000 - £90,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,5/12/2021
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design","£70,000 - £110,000",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time,6/25/2021
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection","£60,000 - £95,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,7/18/2021
+IT Project Manager,Manage IT projects,"Project Management, Agile","£75,000 - £120,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,8/30/2021
+Data Scientist,Analyze big data,"Python, Machine Learning","£65,000 - £100,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,9/14/2021
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£55,000 - £90,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,10/22/2021
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£80,000 - £130,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,11/9/2021
+Software Developer,Develop software,"Java, Python, Software Development","£50,000 - £85,000",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time,12/4/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£42,000 - £72,000",Glasgow,IT Solutions,Junior,Support,Full-Time,2/28/2021
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps","£55,000 - £90,000",London,DevOps Solutions,Mid-Level,DevOps,Full-Time,3/25/2021
+Database Administrator,Manage databases,"SQL, Database Management","£50,000 - £85,000",Manchester,Data Management,Mid-Level,Database,Full-Time,4/19/2021
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",Birmingham,UX Innovations,Junior,Design,Full-Time,5/15/2021
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£75,000 - £120,000",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time,6/30/2021
+Software Tester,Test software,"Manual Testing, Bug Tracking","£40,000 - £70,000",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time,7/22/2021
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis","£50,000 - £85,000",Leeds,SecureIT,Mid-Level,Security,Full-Time,8/17/2021
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£60,000 - £95,000",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time,9/9/2021
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript","£45,000 - £75,000",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time,10/2/2021
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£70,000 - £110,000",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,11/27/2021
+IT Auditor,Audit IT systems,"Audit, Risk Management","£55,000 - £90,000",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time,12/22/2021
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Liverpool,IT Training,Junior,Education,Full-Time,2/15/2021
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£70,000 - £110,000",Nottingham,SecureCloud,Mid-Level,Security,Full-Time,3/12/2021
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£55,000 - £90,000",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time,4/5/2021
+UX Researcher,Conduct UX research,"User Research, UX Design","£48,000 - £80,000",Bristol,UX Labs,Junior,Design,Full-Time,5/1/2021
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£65,000 - £100,000",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time,6/18/2021
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £85,000",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time,7/14/2021
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£45,000 - £75,000",Sheffield,Cloud Support,Junior,Support,Full-Time,8/9/2021
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£80,000 - £130,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,9/4/2021
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£60,000 - £95,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,10/30/2021
+Software Architect,Design software,"Architecture, Design Patterns","£90,000 - £140,000",Nottingham,Software Architects,Senior,Software Design,Full-Time,11/25/2021
+IT Quality Analyst,Ensure software quality,"QA, Testing","£55,000 - £90,000",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time,12/20/2021
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£70,000 - £110,000",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time,2/22/2021
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£75,000 - £120,000",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time,3/19/2021
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£65,000 - £100,000",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time,4/14/2021
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£55,000 - £90,000",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time,5/11/2021
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£60,000 - £95,000",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time,6/6/2021
+IT Trainer,Train IT professionals,"Training, IT Education","£40,000 - £70,000",Glasgow,IT Training,Junior,Education,Full-Time,7/1/2021
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£75,000 - £120,000",Leeds,AI Ethics,Senior,Ethics,Full-Time,8/27/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£45,000 - £75,000",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time,9/22/2021
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£80,000 - £130,000",Nottingham,Data Managers,Senior,Analytics,Full-Time,10/18/2021
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£50,000 - £85,000",Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time,11/13/2021
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£70,000 - £110,000",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,12/9/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£40,000 - £70,000",Cardiff,IT Support Experts,Junior,Support,Full-Time,2/10/2021
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£50,000 - £85,000",London,Web Creations,Mid-Level,Web Development,Full-Time,3/20/2021
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis","£45,000 - £75,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,4/15/2021
+Network Engineer,Manage network infrastructure,"Cisco, Networking","£55,000 - £90,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,5/12/2021
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design","£70,000 - £110,000",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time,6/25/2021
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection","£60,000 - £95,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,7/18/2021
+IT Project Manager,Manage IT projects,"Project Management, Agile","£75,000 - £120,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,8/30/2021
+Data Scientist,Analyze big data,"Python, Machine Learning","£65,000 - £100,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,9/14/2021
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£55,000 - £90,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,10/22/2021
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£80,000 - £130,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,11/9/2021
+Software Developer,Develop software,"Java, Python, Software Development","£50,000 - £85,000",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time,12/4/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£42,000 - £72,000",Glasgow,IT Solutions,Junior,Support,Full-Time,2/28/2021
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps","£55,000 - £90,000",London,DevOps Solutions,Mid-Level,DevOps,Full-Time,3/25/2021
+Database Administrator,Manage databases,"SQL, Database Management","£50,000 - £85,000",Manchester,Data Management,Mid-Level,Database,Full-Time,4/19/2021
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",Birmingham,UX Innovations,Junior,Design,Full-Time,5/15/2021
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£75,000 - £120,000",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time,6/30/2021
+Software Tester,Test software,"Manual Testing, Bug Tracking","£40,000 - £70,000",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time,7/22/2021
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis","£50,000 - £85,000",Leeds,SecureIT,Mid-Level,Security,Full-Time,8/17/2021
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£60,000 - £95,000",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time,9/9/2021
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript","£45,000 - £75,000",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time,10/2/2021
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£70,000 - £110,000",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,11/27/2021
+IT Auditor,Audit IT systems,"Audit, Risk Management","£55,000 - £90,000",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time,12/22/2021
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Liverpool,IT Training,Junior,Education,Full-Time,2/15/2021
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£70,000 - £110,000",Nottingham,SecureCloud,Mid-Level,Security,Full-Time,3/12/2021
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£55,000 - £90,000",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time,4/5/2021
+UX Researcher,Conduct UX research,"User Research, UX Design","£48,000 - £80,000",Bristol,UX Labs,Junior,Design,Full-Time,5/1/2021
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£65,000 - £100,000",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time,6/18/2021
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £85,000",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time,7/14/2021
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£45,000 - £75,000",Sheffield,Cloud Support,Junior,Support,Full-Time,8/9/2021
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£80,000 - £130,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,9/4/2021
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£60,000 - £95,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,10/30/2021
+Software Architect,Design software,"Architecture, Design Patterns","£90,000 - £140,000",Nottingham,Software Architects,Senior,Software Design,Full-Time,11/25/2021
+IT Quality Analyst,Ensure software quality,"QA, Testing","£55,000 - £90,000",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time,12/20/2021
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£70,000 - £110,000",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time,2/22/2021
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£75,000 - £120,000",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time,3/19/2021
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£65,000 - £100,000",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time,4/14/2021
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£55,000 - £90,000",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time,5/11/2021
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£60,000 - £95,000",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time,6/6/2021
+IT Trainer,Train IT professionals,"Training, IT Education","£40,000 - £70,000",Glasgow,IT Training,Junior,Education,Full-Time,7/1/2021
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£75,000 - £120,000",Leeds,AI Ethics,Senior,Ethics,Full-Time,8/27/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£45,000 - £75,000",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time,9/22/2021
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£80,000 - £130,000",Nottingham,Data Managers,Senior,Analytics,Full-Time,10/18/2021
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£50,000 - £85,000",Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time,11/13/2021
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£70,000 - £110,000",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,12/9/2021
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£40,000 - £70,000",Cardiff,IT Support Experts,Junior,Support,Full-Time,1/10/2020
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£50,000 - £85,000",London,Web Creations,Mid-Level,Web Development,Full-Time,2/20/2020
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis","£45,000 - £75,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,3/15/2020
+Network Engineer,Manage network infrastructure,"Cisco, Networking","£55,000 - £90,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,4/12/2020
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design","£70,000 - £110,000",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time,5/25/2020
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection","£60,000 - £95,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,6/18/2020
+IT Project Manager,Manage IT projects,"Project Management, Agile","£75,000 - £120,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,7/30/2020
+Data Scientist,Analyze big data,"Python, Machine Learning","£65,000 - £100,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,8/14/2020
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£55,000 - £90,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,9/22/2020
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£80,000 - £130,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,10/9/2020
+Software Developer,Develop software,"Java, Python, Software Development","£50,000 - £85,000",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time,11/4/2020
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£42,000 - £72,000",Glasgow,IT Solutions,Junior,Support,Full-Time,1/28/2020
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps","£55,000 - £90,000",London,DevOps Solutions,Mid-Level,DevOps,Full-Time,2/25/2020
+Database Administrator,Manage databases,"SQL, Database Management","£50,000 - £85,000",Manchester,Data Management,Mid-Level,Database,Full-Time,3/19/2020
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",Birmingham,UX Innovations,Junior,Design,Full-Time,4/15/2020
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£75,000 - £120,000",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time,5/30/2020
+Software Tester,Test software,"Manual Testing, Bug Tracking","£40,000 - £70,000",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time,6/22/2020
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis","£50,000 - £85,000",Leeds,SecureIT,Mid-Level,Security,Full-Time,7/17/2020
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£60,000 - £95,000",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time,8/9/2020
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript","£45,000 - £75,000",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time,9/2/2020
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£70,000 - £110,000",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,10/27/2020
+IT Auditor,Audit IT systems,"Audit, Risk Management","£55,000 - £90,000",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time,11/22/2020
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Liverpool,IT Training,Junior,Education,Full-Time,12/15/2020
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£70,000 - £110,000",Nottingham,SecureCloud,Mid-Level,Security,Full-Time,1/12/2020
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£55,000 - £90,000",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time,2/5/2020
+UX Researcher,Conduct UX research,"User Research, UX Design","£48,000 - £80,000",Bristol,UX Labs,Junior,Design,Full-Time,3/1/2020
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£65,000 - £100,000",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time,4/18/2020
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £85,000",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time,5/14/2020
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£45,000 - £75,000",Sheffield,Cloud Support,Junior,Support,Full-Time,6/9/2020
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£80,000 - £130,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,7/4/2020
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£60,000 - £95,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,8/30/2020
+Software Architect,Design software,"Architecture, Design Patterns","£90,000 - £140,000",Nottingham,Software Architects,Senior,Software Design,Full-Time,9/25/2020
+IT Quality Analyst,Ensure software quality,"QA, Testing","£55,000 - £90,000",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time,10/20/2020
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£70,000 - £110,000",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time,11/22/2020
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£75,000 - £120,000",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time,12/17/2020
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£65,000 - £100,000",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time,1/11/2020
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£55,000 - £90,000",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time,2/6/2020
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£60,000 - £95,000",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time,3/3/2020
+IT Trainer,Train IT professionals,"Training, IT Education","£40,000 - £70,000",Glasgow,IT Training,Junior,Education,Full-Time,4/1/2020
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£75,000 - £120,000",Leeds,AI Ethics,Senior,Ethics,Full-Time,5/26/2020
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£45,000 - £75,000",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time,6/21/2020
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£80,000 - £130,000",Nottingham,Data Managers,Senior,Analytics,Full-Time,7/16/2020
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£50,000 - £85,000",Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time,8/11/2020
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£70,000 - £110,000",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,9/6/2020
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£40,000 - £70,000",Cardiff,IT Support Experts,Junior,Support,Full-Time,1/10/2019
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£50,000 - £85,000",London,Web Creations,Mid-Level,Web Development,Full-Time,2/20/2019
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis","£45,000 - £75,000",Manchester,Data Insights,Junior,Data Analysis,Full-Time,3/15/2019
+Network Engineer,Manage network infrastructure,"Cisco, Networking","£55,000 - £90,000",Birmingham,Network Experts,Mid-Level,Networking,Full-Time,4/12/2019
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design","£70,000 - £110,000",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time,5/25/2019
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection","£60,000 - £95,000",Glasgow,SecureGuard,Mid-Level,Security,Full-Time,6/18/2019
+IT Project Manager,Manage IT projects,"Project Management, Agile","£75,000 - £120,000",Leeds,Project Leaders,Senior,Project Management,Full-Time,7/30/2019
+Data Scientist,Analyze big data,"Python, Machine Learning","£65,000 - £100,000",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time,8/14/2019
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£55,000 - £90,000",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,9/22/2019
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance","£80,000 - £130,000",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time,10/9/2019
+Software Developer,Develop software,"Java, Python, Software Development","£50,000 - £85,000",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time,11/4/2019
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£42,000 - £72,000",Glasgow,IT Solutions,Junior,Support,Full-Time,1/28/2019
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps","£55,000 - £90,000",London,DevOps Solutions,Mid-Level,DevOps,Full-Time,2/25/2019
+Database Administrator,Manage databases,"SQL, Database Management","£50,000 - £85,000",Manchester,Data Management,Mid-Level,Database,Full-Time,3/19/2019
+UX Designer,Design user experiences,"UX Design, Prototyping","£45,000 - £75,000",Birmingham,UX Innovations,Junior,Design,Full-Time,4/15/2019
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy","£75,000 - £120,000",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time,5/30/2019
+Software Tester,Test software,"Manual Testing, Bug Tracking","£40,000 - £70,000",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time,6/22/2019
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis","£50,000 - £85,000",Leeds,SecureIT,Mid-Level,Security,Full-Time,7/17/2019
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL","£60,000 - £95,000",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time,8/9/2019
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript","£45,000 - £75,000",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time,9/2/2019
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML","£70,000 - £110,000",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time,10/27/2019
+IT Auditor,Audit IT systems,"Audit, Risk Management","£55,000 - £90,000",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time,11/22/2019
+IT Trainer,Train IT professionals,"Training, IT Education","£35,000 - £60,000",Liverpool,IT Training,Junior,Education,Full-Time,12/15/2019
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption","£70,000 - £110,000",Nottingham,SecureCloud,Mid-Level,Security,Full-Time,1/12/2019
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management","£55,000 - £90,000",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time,2/5/2019
+UX Researcher,Conduct UX research,"User Research, UX Design","£48,000 - £80,000",Bristol,UX Labs,Junior,Design,Full-Time,3/1/2019
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity","£65,000 - £100,000",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time,4/18/2019
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance","£50,000 - £85,000",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time,5/14/2019
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services","£45,000 - £75,000",Sheffield,Cloud Support,Junior,Support,Full-Time,6/9/2019
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales","£80,000 - £130,000",Manchester,Sales Leaders,Senior,Sales,Full-Time,7/4/2019
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection","£60,000 - £95,000",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time,8/30/2019
+Software Architect,Design software,"Architecture, Design Patterns","£90,000 - £140,000",Nottingham,Software Architects,Senior,Software Design,Full-Time,9/25/2019
+IT Quality Analyst,Ensure software quality,"QA, Testing","£55,000 - £90,000",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time,10/20/2019
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development","£70,000 - £110,000",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time,11/22/2019
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain","£75,000 - £120,000",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time,12/17/2019
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations","£65,000 - £100,000",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time,1/11/2019
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS","£55,000 - £90,000",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time,2/6/2019
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy","£60,000 - £95,000",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time,3/3/2019
+IT Trainer,Train IT professionals,"Training, IT Education","£40,000 - £70,000",Glasgow,IT Training,Junior,Education,Full-Time,4/1/2019
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance","£75,000 - £120,000",Leeds,AI Ethics,Senior,Ethics,Full-Time,5/26/2019
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting","£45,000 - £75,000",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time,6/21/2019
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management","£80,000 - £130,000",Nottingham,Data Managers,Senior,Analytics,Full-Time,7/16/2019
+IT Project Coordinator,Coordinate IT projects,Project Coordination,"£50,000 - £85,000",Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time,8/11/2019
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis","£70,000 - £110,000",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time,9/6/2019
