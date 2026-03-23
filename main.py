@@ -12,7 +12,6 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 from sqlalchemy.future import select
 
 DATABASE_URL = "sqlite+aiosqlite:///network.db"
-
 Base = declarative_base()
 
 class Node(Base):
@@ -24,13 +23,13 @@ class Node(Base):
 engine = create_async_engine(DATABASE_URL, echo = True)
 AsyncSessionLocal = sessionmaker(engine, class_ = AsyncSession, expire_on_commit = False)
 
-async def create_table():
+async def create_tables():
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
 
 async def add_nodes():
     async with AsyncSessionLocal() as session:
-        nodes = [Node(ip_address = f'192.168.1.{i}', status = 'active') for i in range(1, 6)]
+        nodes = [Node(ip_address = f'192.168.1.{i}', status = 'active') for i in range(1, 16)]
         session.add_all(nodes)
         await session.commit()
 
@@ -55,16 +54,18 @@ async def reset_nodes():
         await session.commit()
 
 async def main():
-    await create_table()
+    await create_tables()
     await add_nodes()
+
     print('\nВузли перед моніторингом:\n')
     await get_nodes()
     await monitor_nodes()
+
     print('\nВузли після моніторингу:\n')
     await get_nodes()
     await reset_nodes()
 
     await engine.dispose()
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     asyncio.run(main())
