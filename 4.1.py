@@ -8,18 +8,22 @@ Interface Segregation Principle (ISP)
 Розділити інтерфейс відповідно до ISP.
 """
 class CallCapable:
+    # Вузькоспеціалізований інтерфейс для дзвінків
     def make_call(self):
         pass
 
 class SMSCapable:
+    # Вузькоспеціалізований інтерфейс для повідомлень
     def send_sms(self):
         pass
 
 class NetworkCapable:
+    # Вузькоспеціалізований інтерфейс для підключення до мережі
     def connect_to_network(self):
         pass
 
 class Smartphone(CallCapable, SMSCapable, NetworkCapable):
+    # Смартфон успадковує всі необхідні інтерфейси
     def make_call(self):
         print("Здійснення дзвінка")
 
@@ -30,6 +34,7 @@ class Smartphone(CallCapable, SMSCapable, NetworkCapable):
         print("Підключення до мережі")
     
 class IoTDevice(NetworkCapable):
+    # IoT-пристрій успадковує лише те, що йому справді потрібно
     def connect_to_network(self):
         print("Підключення IoT-пристрою до мережі")
 
